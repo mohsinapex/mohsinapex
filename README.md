@@ -1,7 +1,7 @@
 
 ![header](https://github-animatedbanner.vercel.app/api/banner?type=terminal&preset=monochrome&pattern=diagonal&patternOpacity=0.14104599032469162&particles=matrix&particleCount=60&particleColor=%2300ff88&overlay=texture&overlayOpacity=0.3558411498022791&speed=0.6960385394843789&text=Mohsin+Raza&fontFamily=Orbitron&fontSize=76&fontWeight=700&fontColor=%2300ff88&animation=typewriter&desc=Software+Engineer&descFontSize=34)
                                     
- ### I'm Mohsin Raza, a Software Engineering student and developer passionate about building modern, practical, open-source software AI Agents. I enjoy working with web technologies, Android development, and programming, while continuously learning new tools and improving my skills.<br><br>I believe in learning by building, experimenting with ideas, and turning them into real projects.
+ #### I'm Mohsin Raza, a Software Engineering student and developer passionate about building modern, practical, open-source software AI Agents. I enjoy working with web technologies, Android development, and programming, while continuously learning new tools and improving my skills.<br><br>I believe in learning by building, experimenting with ideas, and turning them into real projects.
 <br>
 
 
